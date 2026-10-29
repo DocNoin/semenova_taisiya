@@ -10,16 +10,19 @@
 5. Seaborn
 6. SQL
 7. Jupyter Notebook
-8. PostgreSQL
-9. Scikit-Learn
-10. SciPy
-11. Statsmodels
-12. Power BI
-13. PyTorch
-14. TensorFlow
+8. English B2
+9. PostgreSQL
+10. Scikit-Learn
+11. SciPy
+12. Statsmodels
+13. Power BI
+14. PyTorch
+15. TensorFlow
 (ну и куда же без нейросетей)
 
 Проекты:
 1. Zanzibar Hotel AI Agent
 2. Heart Disease Prediction
 3. Heart Disease Analysis
+
+(проекты в скором времени будут добавлены)
