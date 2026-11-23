@@ -32,7 +32,7 @@
 <img width="2526" height="1785" alt="certificate_individual (3)" src="https://github.com/user-attachments/assets/3301e2c3-6b99-41fe-881f-58904fab8f21" />
 <img width="2526" height="1785" alt="certificate_team (2)" src="https://github.com/user-attachments/assets/ab26fab7-f312-4a70-b729-cafc6c7cf216" />
 2. Hack and Change от МТС
-
+<img width="793" height="1123" alt="МТС" src="https://github.com/user-attachments/assets/b64d41c8-07e3-46f1-92f5-7e6e9e23cf79" />
 
 
    
