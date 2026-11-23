@@ -22,7 +22,8 @@
 
 Проекты:
 1. Zanzibar Hotel AI Agent
-2. Heart Disease Prediction
-3. Heart Disease Analysis
-
+2. EnergyTool AI Agent
+3. Heart Disease Prediction
+4. Heart Disease Analysis
+   
 (файлы с проектами в скором времени будут добавлены)
