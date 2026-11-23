@@ -3,13 +3,13 @@
 Начинающий Data Analyst / Data Scientist / ML-engineer
 
 Инструменты:
-1. Python 
+1. Python [знакомство с sql и python (2025)](https://stepik.org/cert/2912872)
 2. NumPy
 3. Statistics [статистика в клинических исследованиях (2025)](https://stepik.org/cert/2893485)
 4. Pandas
 5. MatPlotLib
 6. Seaborn
-7. SQL
+7. SQL [знакомство с sql и python (2025)](https://stepik.org/cert/2912872)
 8. Jupyter Notebook
 9. English B2
 10. PostgreSQL
